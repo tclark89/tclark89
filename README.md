@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tclark89
-- 👀 I’m interested in Data Analysis/Management
-- 🌱 I’m currently learning Quarto, Python, and generally anything that seems useful
+- 👀 I am professionally interested in Data Analysis/Management and am a Linux hobbyist.
+- 🌱 I’m currently learning Quarto, looking at Python, and trying to become familiar with tools like Docker, Git, Flatpak, etc.
 - 💞️ I’m not looking to collaborate on anything right now
 
 <!---
